@@ -1,0 +1,18 @@
+// Implemented by DnJuses
+
+{
+  "name" : "dirtprotection",
+  "effectConfig" : {
+  	"scaleItemId" : "dirtmaterial",
+  	"scaleItemRequired" : 100,
+  	"scaleAmount" : 1,
+  	"scaleMax" : 40
+  },
+  "defaultDuration" : 1,
+
+  "scripts" : [
+    "itemscaleprotection.lua"
+  ]
+}
+
+// Implemented by DnJuses
